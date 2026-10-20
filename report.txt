@@ -1,0 +1,18 @@
+CYBERSECURITY LOG ANALYSIS REPORT
+===================================
+Analysis time: 2026-10-20 23:49:41
+Total log entries: 12
+Successful logins: 4
+Failed login attempts: 6
+Unauthorized access events: 2
+
+REPEATED FAILED LOGIN ALERTS
+-----------------------------------
+ALERT: 203.0.113.45 had 3 failed login attempts.
+ALERT: 203.0.113.78 had 3 failed login attempts.
+
+UNAUTHORIZED ACCESS EVENTS
+-----------------------------------
+WARNING: 198.51.100.23 appeared in 2 unauthorized access event(s).
+
+Note: Alerts indicate suspicious patterns, not proof of an attack.
