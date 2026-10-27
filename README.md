@@ -140,6 +140,6 @@ This project helped me practice:
 
 ---
 
-**Author:** KHOULOUD BELMABROUK
+**Author:** KHOULOUD BM
 
-**Status:** Educational project — initial version
+**Status:** Educational project 
